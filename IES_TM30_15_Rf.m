@@ -13,4 +13,4 @@ function [Rf,Rfi, T, Duv] = IES_TM30_15_Rf(spd)
 % Author: Kevin A.G. Smet
 % date: 26/04/2017
 %--------------------------------------------
-% Default test spd (Rf = 79.4) (if nargin == 0).
+% Default test spd (Rf = 79.4), (if nargin == 0).
